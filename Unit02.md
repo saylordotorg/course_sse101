@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "SSE101: Survey of Systems Engineering - Part 1"
@@ -7,4 +8,9 @@ previous: ../Unit01
 ---
 **Unit 2: Teamwork** <span id="2"></span> 
 
+=======
+**Unit 2: Teamwork** <span id="2"></span>  
+>>>>>>> 7ba224ff53205df6fad8e9d86a367f3ef7a9de88
 
+**Unit 2.1: Teamwork Introduction**  
+Video playlist (5 videos): [Teamwork Introduction](https://youtu.be/8_8OKeCuaF4?list=PLMrpXL7ZxXYUp8GBwiY2p85c_0lxAyIdU) (YouTube)  
