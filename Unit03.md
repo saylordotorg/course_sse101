@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "SSE101: Survey of Systems Engineering - Part 1"
@@ -7,11 +6,6 @@ next: ../Unit04
 previous: ../Unit02
 ---
 **Unit 3: Project Life Cycle** <span id="3"></span> 
-  
-  
- Meet the original Space Systems Engineering online course creator, Lisa
-=======
-**Unit 3: Project Life Cycle** <span id="3"></span>  
 
 **Unit 3.1: Project Life Cycle Overview**  
 
