@@ -5,9 +5,6 @@ course_description: "This course gives high level overview of the complexities t
 next: ../Unit03
 previous: ../Unit01
 ---
-**Unit 2: Teamwork** <span id="2"></span> 
-
-=======
 **Unit 2: Teamwork** <span id="2"></span>  
 
 **Unit 2.1: Teamwork Introduction**  
