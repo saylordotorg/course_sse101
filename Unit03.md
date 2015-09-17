@@ -12,9 +12,8 @@ previous: ../Unit02
 Video playlist (9 videos): [Project Life Cycle Overview](https://www.youtube.com/watch?list=PLMrpXL7ZxXYWLoo9JLARsRyRFqp4Fv01N&v=kittbOWXuP0) (YouTube)  
 
 Supplement: [Hangout on Air with Lisa Guerra](https://youtu.be/62LeCPDTTWw) (YouTube)  
-Meet the original Space Systems Engineering online course creator, Lisa
->>>>>>> 59ce3d7e5ae85af0021db233aa8c2a5372f3b863
-Guerra, in this unit's Hangout on Air! This video was recorded on March
+Meet the original Space Systems Engineering online course creator, Lisa 
+Guerra, in this unit's Hangout on Air! This video was recorded on March 
 21, 2014.  
 
 
