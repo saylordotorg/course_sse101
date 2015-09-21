@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "SSE101: Survey of Systems Engineering - Part 1"
@@ -7,14 +6,6 @@ next: ../../../
 previous: ../Unit05
 ---
 **Unit 6: Trade Studies** <span id="6"></span> 
-  
-  
- Check out the recordings of the Hangouts on Air with Dr. John Mather
-and Mike Menzel of the James Webb Space Telescope and Jeff Volosin and
-Lisa Guerra below!  
-=======
-**Unit 6: Trade Studies** <span id="6"></span>  
->>>>>>> 282414bfe1cbbb9c4f96c6e68dcdb9979f17612a
   
 **Unit 6.1: Trade Studies**  
 

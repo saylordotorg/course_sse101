@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "SSE101: Survey of Systems Engineering - Part 1"
@@ -7,20 +6,14 @@ next: ../Unit04
 previous: ../Unit02
 ---
 **Unit 3: Project Life Cycle** <span id="3"></span> 
-  
-  
- Meet the original Space Systems Engineering online course creator, Lisa
-=======
-**Unit 3: Project Life Cycle** <span id="3"></span>  
 
 **Unit 3.1: Project Life Cycle Overview**  
 
 Video playlist (9 videos): [Project Life Cycle Overview](https://www.youtube.com/watch?list=PLMrpXL7ZxXYWLoo9JLARsRyRFqp4Fv01N&v=kittbOWXuP0) (YouTube)  
 
 Supplement: [Hangout on Air with Lisa Guerra](https://youtu.be/62LeCPDTTWw) (YouTube)  
-Meet the original Space Systems Engineering online course creator, Lisa
->>>>>>> 59ce3d7e5ae85af0021db233aa8c2a5372f3b863
-Guerra, in this unit's Hangout on Air! This video was recorded on March
+Meet the original Space Systems Engineering online course creator, Lisa 
+Guerra, in this unit's Hangout on Air! This video was recorded on March 
 21, 2014.  
 
 
