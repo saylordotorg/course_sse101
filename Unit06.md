@@ -12,13 +12,7 @@ Check out the recordings of the Hangouts on Air with Dr. John Mather
 and Mike Menzel of the James Webb Space Telescope as well as Jeff Volosin (course presenter) and
 Lisa Guerra (course designer)!  
   
-**Saylor Academy's "SSE101 Final Exam"** <span id="7"></span>
+**Saylor Academy's "SSE101 Final Exam"**
 
-Link: Saylor Academy's [“SSE101 Final
-Exam”](http://school.saylor.org/mod/quiz/view.php?id=1908)
-
-Instructions: You must be logged into your Saylor Academy account in
-order to access this exam. If you do not yet have an account, you will
-be able to create one, free of charge, after clicking the link.
-
+(The final exam for this course was closed on August 26th, 2015.)
 
