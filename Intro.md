@@ -108,3 +108,4 @@ from NASA's Goddard Space Flight Center:
 - [Unit 4](https://legacy.saylor.org/sse101/Unit04/)
 - [Unit 5](https://legacy.saylor.org/sse101/Unit05/)
 - [Unit 6](https://legacy.saylor.org/sse101/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ELECTIVES/SSE101/SSE101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ELECTIVES/SSE101/SSE101-FinalExam-Answers.html)
