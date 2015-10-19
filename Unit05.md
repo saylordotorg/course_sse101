@@ -9,6 +9,12 @@ previous: ../Unit04
 
 **Unit 5.1: Requirements Overview**  
 
+<<<<<<< HEAD
 Video playlist (3 videos): [Requirements Overview](https://www.youtube.com/watch?list=PLMrpXL7ZxXYXXnTJ2hgClLeNiqJPB9A1Y&v=fGmFoKuu_Ag) (YouTube)
 
+=======
+Video playlist (3 videos): [Requirements Overview](https://www.youtube.com/watch?list=PLMrpXL7ZxXYXXnTJ2hgClLeNiqJPB9A1Y&v=fGmFoKuu_Ag) (YouTube)  
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/fGmFoKuu_Ag?list=PLMrpXL7ZxXYXXnTJ2hgClLeNiqJPB9A1Y" frameborder="0" allowfullscreen></iframe>
+>>>>>>> b7e37b27fd21f94e61041ad80512c178fc51252f
 
