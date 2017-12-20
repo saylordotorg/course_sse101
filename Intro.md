@@ -25,38 +25,50 @@ process, offering support and input in online course design. Our
 excellent A/V team put together the videos that comprise the meat of
 this course. We are all extremely proud to have
 the inaugural, dual-branded NASA and Saylor course, living on
-Saylor.org. Each unit of the course will preset you with a survey of
+Saylor.org.  
+
+Each unit of the course will present you with a survey of
 space systems engineering topics. For a more complete grasp of all that
 space systems engineering entails, make sure to visit Lisa Guerra's
 [Space System Engineering course](http://spacese.spacegrant.org/), which
-SSE101 was adapted from. This course features YouTube playlist (also
+SSE101 was adapted from.  
+
+This course features a YouTube playlist (also
 available on [Vimeo](http://vimeo.com/sayloracademy/videos)) as the main
 method of content delivery in every unit. Every unit has multiple videos
 in each playlist, so make sure to watch them all. At the end of most
-videos in the playlists, there will be additional required resources.
+videos in the playlists, there will be additional required resources.  
+
 There will also be unit assessments to gauge your learning, discussion
 forum activities, deliverables for the optional Mars Sample Return
-mission project, and a multiple choice final exam. Lastly, in Units 1,
+mission project, and a multiple choice final exam.  
+
+Lastly, in Units 1,
 3, 4, and 6, we have posted archived Google Hangouts on Air with NASA
 engineers and scientists who use the lessons you will be learning
 in their everyday lives at the Goddard Space Flight Center. 
 
-**Grading:**
+**Grading:**  
+<span style="background-color: yellow;">Note: this section is now obsolete.</span>
 Unit quizzes: 10% each (for a total of 60% of your final grade) Final
 exam: 40% *Note: To pass this course, you will need to complete every
 quiz and the final exam and have a cumulative grade of 70% or higher.
 Unit quizzes cannot be retaken but the final exam can after a one week
-waiting period.* Mars Sample Return Mission Project: You will have the
+waiting period.* 
+
+Mars Sample Return Mission Project: You will have the
 opportunity to apply the concepts you are learning to a real NASA
 mission currently in development, a Mars Sample Return mission. Look out
 for full project details at the end of Unit 1. 
 
-**Course Lecturers:** NASA Project Manager, Jeff Volosin; NASA Mission Systems
+**Course Lecturers:**  
+NASA Project Manager, Jeff Volosin; NASA Mission Systems
 Engineer, [Mike Menzel](http://www.jwst.nasa.gov/meet-menzel.html);
 and Nobel prize winner, [Dr. John C.
 Mather](http://www.jwst.nasa.gov/meet-mather.html) 
 
-**Primary Resources:** This course is comprised of pre-existing content created by
+**Primary Resources:**  
+This course is comprised of pre-existing content created by
 NASA as well as new video and assessments created specifically for this
 course. The main sources of NASA content are: Lisa Guerra’s [Space
 Systems Engineering](http://spacese.spacegrant.org/) NASA's [Systems
@@ -66,23 +78,24 @@ NASA’s [Science Visualization Studio](http://svs.gsfc.nasa.gov/) NASA’s
 [Systems Engineering Seminar](http://ses.gsfc.nasa.gov/) All of the
 content created for this course is in the Public Domain. 
 
-**Supplementary Resources:** Five Hangouts on Air were recorded with various NASA personnel. 
+**Supplementary Resources:**  
+Five Hangouts on Air were recorded with various NASA personnel. 
 These videos are linked within the course units. Separate from this course, 
 you may also be interested in these extended interviews with five scientists 
-from NASA's Goddard Space Flight Center: 
--   [Saylor Asks Dr. Robert Cahalan](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYU3Zs1sOnfPsR0w_Z6IrTc1)
--   [Saylor Asks Dr. James Garvin](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYUCMH6XaFEXBsmvJ-zYK5RT)
--   [Saylor Asks Dr. Holly Gilbert](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYWWEtrh7sJxuG9CVHpik5RR)
--   [Saylor Asks Nobel Laureate Dr. John Mather](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYX6vwVnG1oMmt4rTfasfgka)
--   [Saylor Asks Dr. Compton Tucker](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYWLF_dOg1CNgzZw1qBhtjfx)
+from NASA's Goddard Space Flight Center:  
+- [Saylor Asks Dr. Robert Cahalan](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYU3Zs1sOnfPsR0w_Z6IrTc1)
+- [Saylor Asks Dr. James Garvin](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYUCMH6XaFEXBsmvJ-zYK5RT)
+- [Saylor Asks Dr. Holly Gilbert](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYWWEtrh7sJxuG9CVHpik5RR)
+- [Saylor Asks Nobel Laureate Dr. John Mather](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYX6vwVnG1oMmt4rTfasfgka)
+- [Saylor Asks Dr. Compton Tucker](https://www.youtube.com/playlist?list=PLMrpXL7ZxXYWLF_dOg1CNgzZw1qBhtjfx)
 
-**Additional Tips:**
--   Although not required, you are encouraged to work with a partner or
+**Additional Tips:**  
+- Although not required, you are encouraged to work with a partner or
     team as you complete this course. There will be a number of
     assignments that, while designed for individuals, can be completed
     with a group and potentially broaden your understanding of the topic
     at hand.
--   This is an extremely portable course. Everything you will need to
+- This is an extremely portable course. Everything you will need to
     learn is contained within one YouTube playlist per unit, including
     links to supplementary readings and activities. Although we designed
     Saylor.org to enhance your experience, you can (and are encouraged
@@ -91,7 +104,8 @@ from NASA's Goddard Space Flight Center:
     should be at your fingertips always, and we think we've done that
     here.
 
-**Table of Contents:** You can find the course's units at the links below.
+**Table of Contents:**  
+You can find the course's units at the links below.
 
 - [Unit 1](https://legacy.saylor.org/sse101/Unit01/)
 - [Unit 2](https://legacy.saylor.org/sse101/Unit02/)
