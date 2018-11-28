@@ -80,7 +80,7 @@ NASA as well as new video and assessments created specifically for this
 course. The main sources of NASA content are: Lisa Guerra’s [Space
 Systems Engineering](http://spacese.spacegrant.org/) NASA's [Systems
 Engineering
-Handbook](http://www.saylor.org/site/wp-content/uploads/2013/08/NASA_SE_Handbook_2007.pdf)
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/NASA_SE_Handbook_2007.pdf)
 NASA’s [Science Visualization Studio](http://svs.gsfc.nasa.gov/) NASA’s
 [Systems Engineering Seminar](http://ses.gsfc.nasa.gov/) All of the
 content created for this course is in the Public Domain. 
