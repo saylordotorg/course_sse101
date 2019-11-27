@@ -9,7 +9,7 @@ updates to [this course on GitHub](https://github.com/saylordotorg/course_sse101
 the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
 Learn site](https://learn.saylor.org).**
 
-<span style="background-color: yellow;">**Note:** SSE101 was run as a scheduled open online course in 
+<span style="background-color: yellow;">**Note:** SSE101 ran as a scheduled open online course in 
 Spring 2014. Since then, SSE101 has operated as a fully self-paced 
 course. The description below and some course materials occasionally
 refer to time-based projects/assignments that are no longer available. 
